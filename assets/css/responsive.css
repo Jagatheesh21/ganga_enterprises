@@ -988,7 +988,7 @@
 	
 	.slider-content h3,
 	.slider-content p{
-		display: none;
+		/*display: block;*/
 	}
 	.slider-two .slider-content h2 {
 		font-size: 24px;
